@@ -1,0 +1,50 @@
+:root{
+  --site-color: ;
+  --site-color2: ;
+  --site-color3: ;
+}
+
+/* General Css */
+
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  font-size: 16px;
+}
+
+img{
+  display: inline-block;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+}
+
+.container{
+  margin: 0 auto;
+  padding: 0 20px;
+  /* max-width: px; */
+}
+
+.site__btn{
+
+}
+
+.site__btn:hover{
+
+}
